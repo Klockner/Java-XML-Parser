@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Produto xmlns="http://NamespaceTest.com/Produto"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://NamespaceTest.com/Produto file:/C:/Users/Gabriel/Desktop/XML/Produto.xsd">
+    <ProdutoDeModa>
+        <SKU>1219213</SKU>
+        <Nome>CARDIGAN CINZA COM BOLSOS FRONTAIS</Nome>
+        <Descricao>Cardigan confeccionado em polimalha, com bolsos frontais.</Descricao>
+        <Marca>Moda POP</Marca>
+        <Loja>Post Haus</Loja>
+        <Preco>39.99</Preco>
+        <PrecoPromocao></PrecoPromocao>
+        <NumeroDeParcelas></NumeroDeParcelas>
+        <ValorDaParcela></ValorDaParcela>
+        <URL>www.posthaus.com.br/moda/cardigan-cinza- com-bolsos-frontais_art121921_0_0.html?mkt=PH3669</URL>
+        <URLImagem>http://img.ph2-jpg.posthaus.com.br/Web/posthaus/foto/moda-feminina/casacos-e- jaquetas/cardigan-cinza- com-bolsos-frontais_121921_600_1.jpg</URLImagem>
+        <Preenchimento>
+        	<Cor>Cinza</Cor>
+            <Textura></Textura>
+        </Preenchimento>
+        <Tamanho>P</Tamanho>
+        <Tamanho>M</Tamanho>
+        <Tamanho>G</Tamanho>
+        <Tamanho>GG</Tamanho>
+        <Classificacao>Moda Feminina</Classificacao>
+        <Categoria>Casaco</Categoria>
+        <Subcategoria>Cardigan</Subcategoria>
+    </ProdutoDeModa>
+    <ProdutoDeModa>
+        <SKU>1895307</SKU>
+        <Nome>BLUSA MANGA LONGA BRANCA</Nome>
+        <Descricao>Blusa, confeccionada em flamê. Modelo de mangas longa e com decote canoa.</Descricao>
+        <Marca>Moda POP</Marca>
+        <Loja>Post Haus</Loja>
+        <Preco>34.99</Preco>
+        <PrecoPromocao></PrecoPromocao>
+        <NumeroDeParcelas></NumeroDeParcelas>
+        <ValorDaParcela></ValorDaParcela>
+        <URL>www.posthaus.com.br/moda/blusa-manga-longa-branca-estampada-frontal_art189530_0_0.html?mkt=PH3669</URL>
+        <URLImagem>http://img.ph2-jpg.posthaus.com.br/Web/posthaus/foto/moda-feminina/blusas/blusa-manga-longa-branca-estampada-frontal_189530_600_1.jpg</URLImagem>
+        <Preenchimento>
+            <Cor>Branco</Cor>
+            <Textura></Textura>
+        </Preenchimento>
+        <Tamanho>PP</Tamanho>
+        <Tamanho>P</Tamanho>
+        <Tamanho>M</Tamanho>
+        <Classificacao>Moda Feminina</Classificacao>
+        <Categoria>Blusa</Categoria>
+        <Subcategoria>Blusa Manga Longa</Subcategoria>
+    </ProdutoDeModa>
+    <ProdutoDeModa>
+        <SKU>1200827</SKU>
+        <Nome>CALÇA JEANS ESCURO CINTURA ALTA</Nome>
+        <Descricao>Calça em jeans com elastano, bolsos traseiros com detalhe drapeado, fechamento com zíper e botões e passantes para cinto. Cintura: Alta.</Descricao>
+        <Marca>Janine</Marca>
+        <Loja>Tendencies</Loja>
+        <Preco>99.99</Preco>
+        <PrecoPromocao>69.99</PrecoPromocao>
+        <NumeroDeParcelas>2</NumeroDeParcelas>
+        <ValorDaParcela>34.99</ValorDaParcela>
+        <URL>www.posthaus.com.br/moda/calca-jeans-escuro-cintura-alta_art120082_0_0.html?mkt=PH3669</URL>
+        <URLImagem>http://img.ph2-jpg.posthaus.com.br/Web/posthaus/foto/moda-feminina/calcas/calca-jeans-escuro-cintura-alta_120082_600_1.jpg</URLImagem>
+        <Preenchimento>
+            <Cor>Azul</Cor>
+            <Textura></Textura>
+        </Preenchimento>
+        <Tamanho>P</Tamanho>
+        <Tamanho>M</Tamanho>
+        <Tamanho>G</Tamanho>
+        <Tamanho>GG</Tamanho>
+        <Tamanho>GGG</Tamanho>
+        <Classificacao>Moda Feminina</Classificacao>
+        <Categoria>Calça</Categoria>
+        <Subcategoria>Calça Jeans</Subcategoria>
+    </ProdutoDeModa>
+    <ProdutoDeModa>
+        <SKU>1868494</SKU>
+        <Nome>CALÇA FLARE PRETA</Nome>
+        <Descricao>Calça, confeccionado em helanca. Modelo flare, com elástico no cós. Cintura: Média.</Descricao>
+        <Marca>Moda POP</Marca>
+        <Loja>Post Haus</Loja>
+        <Preco>29.99</Preco>
+        <PrecoPromocao></PrecoPromocao>
+        <NumeroDeParcelas></NumeroDeParcelas>
+        <ValorDaParcela></ValorDaParcela>
+        <URL>www.posthaus.com.br/moda/calca-flare-estampada_art186849_0_0.html?mkt=PH3669</URL>
+        <URLImagem>http://img.ph2-jpg.posthaus.com.br/Web/posthaus/foto/moda-feminina/calcas-capri-e-legging/calca-flare-estampada_186849_600_1.jpg</URLImagem>
+        <Preenchimento>
+            <Cor>Preto</Cor>
+            <Textura></Textura>
+        </Preenchimento>
+        <Tamanho>PP</Tamanho>
+        <Tamanho>P</Tamanho>
+        <Tamanho>M</Tamanho>
+        <Classificacao>Moda Feminina</Classificacao>
+        <Categoria>Calça</Categoria>
+        <Subcategoria>Calça Flare</Subcategoria>
+    </ProdutoDeModa>
+    <ProdutoDeModa>
+        <SKU>1763822</SKU>
+        <Nome>BLUSA MANGA LONGA ESTAMPA ÉTNICA</Nome>
+        <Descricao>Blusa Manga Longa Estampa Étnica, confeccionada em malha gaze. Modelo manga longa com detalhe drapeado na manga e nas laterais.</Descricao>
+        <Marca>Moda POP</Marca>
+        <Loja>Tendencies</Loja>
+        <Preco>19.99</Preco>
+        <PrecoPromocao></PrecoPromocao>
+        <NumeroDeParcelas></NumeroDeParcelas>
+        <ValorDaParcela></ValorDaParcela>
+        <URL>www.posthaus.com.br/moda/blusa-manga- longa-estampa-etnica_art176382_0_0.html?mkt=PH3669</URL>
+        <URLImagem>http://img.ph2-jpg.posthaus.com.br/Web/posthaus/foto/moda-feminina/blusas-manga- longa/blusa-manga- longa-estampa-etnica_176382_600_1.jpg</URLImagem>
+        <Preenchimento>
+            <Cor>Verde</Cor>
+            <Textura>Estampa Tribal</Textura>
+            <Textura>Estampa Étnica</Textura>
+        </Preenchimento>
+        <Tamanho>P</Tamanho>
+        <Tamanho>M</Tamanho>
+        <Tamanho>G</Tamanho>
+        <Tamanho>GG</Tamanho>
+        <Classificacao>Moda Feminina</Classificacao>
+        <Categoria>Blusa</Categoria>
+        <Subcategoria>Blusa Manga Longa</Subcategoria>
+    </ProdutoDeModa>
+    <ProdutoDeModa>
+        <SKU>1762063</SKU>
+        <Nome>VESTIDO ESTAMPA CATEDRAL PLUS SIZE</Nome>
+        <Descricao>Vestido Estampa Catedral Plus Size, confeccionada em poliéster. Modelo de manga 3/4 e decote transpassado. Elástico na cintura e detalhe de recorte com franzido frontal.</Descricao>
+        <Marca>Marguerite</Marca>
+        <Loja>Tendencies</Loja>
+        <Preco>59.99</Preco>
+        <PrecoPromocao>47.99</PrecoPromocao>
+        <NumeroDeParcelas></NumeroDeParcelas>
+        <ValorDaParcela></ValorDaParcela>
+        <URL>www.posthaus.com.br/moda/vestido-estampa- catedral-plus-size_art176206_0_0.html?mkt=PH3669</URL>
+        <URLImagem>http://img.ph2-jpg.posthaus.com.br/Web/posthaus/foto/moda-feminina/vestidos/vestido-estampa-catedral-plus-size_176206_600_1.jpg</URLImagem>
+        <Preenchimento>
+            <Cor></Cor>
+            <Textura>Estampa Catedral</Textura>
+        </Preenchimento>
+        <Tamanho>G</Tamanho>
+        <Tamanho>GG</Tamanho>
+        <Tamanho>GGG</Tamanho>
+        <Classificacao>Moda Feminina</Classificacao>
+        <Categoria>Vestido</Categoria>
+        <Subcategoria>Vestido Médio</Subcategoria>
+    </ProdutoDeModa>
+    <ProdutoDeModa>
+        <SKU>1809015</SKU>
+        <Nome>CALÇA JEANS AZUL MASCULINA</Nome>
+        <Descricao>Calça Masculina Jeans Actual, confeccionado em jeans. Modelo com bolsos frontais e traseiro. Bolsos traseiros com bordado.</Descricao>
+        <Marca>Actual</Marca>
+        <Loja>Moda POP</Loja>
+        <Preco>109.99</Preco>
+        <PrecoPromocao>79.99</PrecoPromocao>
+        <NumeroDeParcelas>3</NumeroDeParcelas>
+        <ValorDaParcela>26.66</ValorDaParcela>
+        <URL>www.posthaus.com.br/moda/calca-jeans-azul-masculina_art180901_0_0.html?mkt=PH3669</URL>
+        <URLImagem>http://img.ph2-jpg.posthaus.com.br/Web/posthaus/foto/moda-masculina/calcas/calca-jeans-azul-masculina_180901_600_1.jpg</URLImagem>
+        <Preenchimento>
+            <Cor>Azul</Cor>
+            <Textura></Textura>
+        </Preenchimento>
+        <Tamanho>P</Tamanho>
+        <Tamanho>M</Tamanho>
+        <Tamanho>G</Tamanho>
+        <Tamanho>GG</Tamanho>
+        <Classificacao>Moda Masculina</Classificacao>
+        <Categoria>Calça</Categoria>
+        <Subcategoria>Calça Jeans</Subcategoria>
+    </ProdutoDeModa>
+</Produto>
